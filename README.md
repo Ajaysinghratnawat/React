@@ -1,4 +1,4 @@
 # React
-Learning react\n
+Learning react
 
 Project 1 - for learning react basic
